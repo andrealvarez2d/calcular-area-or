@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    background: linear-gradient(to bottom,#D8097E,#8C579C, #24468E);
+}
+
+h1, p{
+    color: white;
+}
